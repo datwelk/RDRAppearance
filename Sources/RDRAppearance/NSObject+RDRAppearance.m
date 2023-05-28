@@ -25,7 +25,7 @@
     return result;
 }
 
-- (void)setrdr_appearanceBySelector:(NSMapTable *)rdr_appearanceBySelector
+- (void)setRdr_appearanceBySelector:(NSMapTable *)rdr_appearanceBySelector
 {
     objc_setAssociatedObject(self, @selector(rdr_appearanceBySelector), rdr_appearanceBySelector, OBJC_ASSOCIATION_RETAIN_NONATOMIC);
 }
