@@ -4,6 +4,8 @@ This repository demonstrate triggering a `UIAppearance` refresh without having t
 
 Read the full blog post: https://datwelk.substack.com/p/realtime-uiappearance-refresh
 
+![clip](https://github.com/datwelk/RDRAppearance/assets/1571141/633c9309-7a07-4b1c-b3ce-bc1b7c6224a0)
+
 # Install
 Use Swift Package Manager.
 
